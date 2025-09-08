@@ -2,6 +2,7 @@
 
 #### A Frontend-React Developer. Feel free to connect with me here:
 [![Telegram Badge](https://img.shields.io/badge/Vanguardd-blue?style=flat-square&logo=Telegram&labelColor=blue&logoColor=white&link=https://t.me/vanguardd)](https://t.me/vanguardd)
+[![Telegram Badge](https://img.shields.io/badge/Fr0ntendmems-blue?style=flat-square&logo=Telegram&labelColor=blue&logoColor=white&link=https://t.me/fr0ntendmems)](https://t.me/fr0ntendmems)
 
 ## ⚡ Technologies
 
